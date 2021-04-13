@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+}
+
+body > header {
+    background-color: dodgerblue;
+    color: white;
+    padding: 10px;
+    display: flex;
+}
+
+body > nav  {
+    
+    color: white;
+    display: flex;
+}
+
+#copyright {
+    background-color: dodgerblue;
+}
+
+.header-nav {
+    color: white;
+    list-style: none;
+}
+
+#copyright {
+    padding: 10px;
+    color: white;
+    margin:auto;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+body > main {
+    
+    margin: auto;
+}
+
+footer {
+    
+    margin: auto;
+} 
+
